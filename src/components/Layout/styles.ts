@@ -1,4 +1,4 @@
-import { Column } from './../MiddleColumn/FeedPost/styles';
+// import { Column } from './../MiddleColumn/FeedPost/styles';
 import styled from 'styled-components';
 
 export const Container = styled.div`
